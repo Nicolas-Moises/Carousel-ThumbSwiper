@@ -1,1 +1,1 @@
-## Testing a beautiful carousel with Swiper JS and mini thumbs. 
+## Testing a carousel with the library Swiper JS. Photos of my family.
